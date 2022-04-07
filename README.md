@@ -1,6 +1,6 @@
-# MeMusic Tech Problem
+# company Tech Problem
 
-This is my submission for the tech problem provided by MeMusic. I have never used
+This is my submission for the tech problem provided by company. I have never used
 the stack hardhat+waffle+ether.js+chai so I was only able to complete one test contract
 with the limited time I had today.
 
