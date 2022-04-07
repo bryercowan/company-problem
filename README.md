@@ -1,10 +1,10 @@
-#MeMusic Tech Problem
+# MeMusic Tech Problem
 
 This is my submission for the tech problem provided by MeMusic. I have never used
 the stack hardhat+waffle+ether.js+chai so I was only able to complete one test contract
 with the limited time I had today.
 
-##Logic Behind Lottery
+## Logic Behind Lottery
 
 The problem with not using API or oracles off-chain to make a random number is
 that blockchains are made to be deterministic which is inherently against randomness.
